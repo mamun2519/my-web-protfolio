@@ -35,10 +35,10 @@ const AboutMe = () => {
          
 
           <div className="flex gap-5 mt-5">
-            <span className="text-2xl border text-blue-700 border-primary p-3 rounded-full"><BsFacebook/></span>
+            <a href="https://www.facebook.com/MERNwebDeveloper.Mamun" target='_blank' className="text-2xl border text-blue-700 border-primary p-3 rounded-full"><BsFacebook/></a>
             <span className="text-2xl border text-blue-300 border-primary p-3 rounded-full"><AiFillTwitterCircle/></span>
-            <span className="text-2xl border text-red-600 p-3 border-primary  rounded-full"><FiInstagram/></span>
-            <span className="text-2xl border border-primary text-blue-900 p-3 rounded-full"><GrLinkedinOption/></span>
+            <a href="https://www.instagram.com/" target='_blank' className="text-2xl border text-red-600 p-3 border-primary  rounded-full"><FiInstagram/></a>
+            <a href="https://www.linkedin.com/in/mamun-islam-316461241/" target='_blank' className="text-2xl border border-primary text-blue-900 p-3 rounded-full"><GrLinkedinOption/></a>
 
           </div>
         </div>

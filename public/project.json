@@ -2,15 +2,16 @@
       {
             "name": "Electric Bd",
             "img": "https://i.ibb.co/xX1WqD0/electicbd.png",
-            "live-link": "https://manufacturer-project-82430.web.app/",
+            "live": "https://manufacturer-project-82430.web.app/",
             "clinet": "https://github.com/mamun2232/Electric-bd",
             "server": "https://github.com/mamun2232/electic-bd-server",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo aliquam aperiam inventore, harum reprehenderit architecto id quod dignissimos mollitia molestias!"
       },
       {
             "name": "Luxury Living",
+            "color": "true",
             "img": "https://i.ibb.co/LNnnn4N/luxcary-Living.png",
-            "live-link": "https://creative-agency-cc8a0.web.app/",
+            "live": "https://creative-agency-cc8a0.web.app/",
             "clinet": "https://github.com/mamun2232/luxury-living",
             "server": "https://github.com/mamun2232/luxury-living-server",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo aliquam aperiam inventore, harum reprehenderit architecto id quod dignissimos mollitia molestias!"
@@ -18,7 +19,7 @@
       {
             "name": "Walton WareHouse",
             "img": " https://i.ibb.co/jWSTdmL/walton.png",
-            "live-link": "https://walton-warehouse.web.app/",
+            "live": "https://walton-warehouse.web.app/",
             "clinet": "https://github.com/mamun2232/walton-warehouse",
             "server": "https://github.com/mamun2232/walton-warehouse-server",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo aliquam aperiam inventore, harum reprehenderit architecto id quod dignissimos mollitia molestias!"

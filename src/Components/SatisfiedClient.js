@@ -19,7 +19,7 @@ const SatisfiedClient = () => {
           <div className="container px-5 py-24 mx-auto">
             <div className="flex flex-wrap -m-4 text-center">
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
-                <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
+                <div className="border-2 bg-[#CCF2F4] border-gray-200 px-4 py-6 rounded-lg">
                 <span className=" text-5xl flex justify-center text-primary mb-1">
                   <ImHappy className="text-center" />
                   </span>
@@ -43,7 +43,7 @@ const SatisfiedClient = () => {
                 </div>
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
-                <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
+                <div className="border-2 bg-[#CCF2F4] border-gray-200 px-4 py-6 rounded-lg">
                 <span className=" text-5xl flex justify-center text-primary mb-1">
                   <GiCoffeeCup className="text-center" />
                   </span>
@@ -54,7 +54,7 @@ const SatisfiedClient = () => {
                 </div>
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
-                <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
+                <div className="border-2  border-gray-200 px-4 py-6 rounded-lg">
                 <span className=" text-5xl flex justify-center text-primary mb-1">
                   <AiFillTrophy className="text-center" />
                   </span>

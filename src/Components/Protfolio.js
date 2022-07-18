@@ -22,9 +22,9 @@ const Protfolio = () => {
 
         <div className="grid gird-cols-1 lg:grid-cols-3 gap-10 lg:gap-20 mt-5">
             {
-                  project.map((pro , i) => <div key={i} className="card   bg-base-100 border">
+                  project.map((pro , i) => <div key={i} className={`card ${pro.color ? "bg-[#CCF2F4]" : "bg-base-100" }   border`}>
                   <figure>
-                    <img  src={pro.img} alt="Shoes" />
+                    <img  src={pro.img} alt="img" />
                   </figure>
                   <div className="card-body py-4 ">
                     <h2 className="card-title">
@@ -32,13 +32,13 @@ const Protfolio = () => {
                     </h2>
                     <p>{pro.description}</p>
                     <div className="card-actions justify-center py-3">
-                      <div className="badge badge-outline border border-primary  py-3"><span className="pr-1"><SiNetlify/></span> Live Link</div>
-                      <div className="badge badge-outline border border-primary  py-3">
+                      <a href={pro.live} target='_blank' className="badge badge-outline border border-primary  py-3"><span className="pr-1"><SiNetlify/></span> Live Link</a>
+                      <a href={pro.clinet} target='_blank' className="badge badge-outline border border-primary  py-3">
                         <span className="pr-1"><AiFillGithub/></span>
-                        Client Repo</div>
-                      <div className="badge badge-outline border border-primary  py-3">
+                        Client Repo</a>
+                      <a href={pro.server} target='_blank' className="badge badge-outline border border-primary  py-3">
                       <span className="pr-1"><AiFillGithub/></span>
-                        Server Repo</div>
+                        Server Repo</a>
                     </div>
                   </div>
                 </div>)

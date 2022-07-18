@@ -30,9 +30,9 @@ const Banner = () => {
               truffaut hexagon try-hard chambray.
             </p>
             <div className="flex justify-center">
-              <button className="inline-flex text-white bg-primary border-0 py-2 px-8 focus:outline-none rounded text-lg font-medium">
+              <a href="https://drive.google.com/file/d/1ZFglk-thBweTPFrr7rATPL9_7YWemlVR/view?usp=sharing" target="_blank "className="inline-flex text-white bg-primary border-0 py-2 px-8 focus:outline-none rounded text-lg font-medium">
                 Resume
-              </button>
+              </a>
             </div>
           </div>
         </div>

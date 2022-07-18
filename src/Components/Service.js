@@ -20,11 +20,12 @@ const Service = () => {
 
         <div className="grid gird-cols-1 lg:grid-cols-3 gap-10 lg:gap-20 mt-5">
           {/* service start  */}
-          {servies.map((service, i) => (
-            <div key={i} className="card    bg-base-100  border">
+          {servies.map((service, i) => ( 
+            <div key={i} className={`card ${service.color ?  "bg-[#CCF2F4]": "bg-base-100"}     border`}>
               <figure className="px-10 pt-10">
                 <img
                   src={service.img}
+                 
                   alt="Shoes"
                   className="rounded-xl"
                 />

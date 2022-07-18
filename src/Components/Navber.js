@@ -4,7 +4,7 @@ import React from "react";
 const Navber = () => {
 
   const menu = <>
-    <li><a href='/'>Home</a></li>
+
     <li><a href='#service'>Service</a></li>
     <li><a href='#protfolio'>Protfolio</a></li>
     <li><a href='#testimonail'>Testimonial</a></li>
@@ -12,7 +12,7 @@ const Navber = () => {
   </>
   return (
     <div className="bg-[#893f45]">
-      <div className="navbar  max-w-7xl m-auto px-2 text-white">
+      <div className="navbar  max-w-7xl m-auto px-2 lg:text-white  font-medium ">
         <div className="navbar-start">
           <div className="dropdown">
             <label tabIndex="0" className="btn btn-ghost lg:hidden">
@@ -33,7 +33,7 @@ const Navber = () => {
             </label>
             <ul
               tabIndex="0"
-              className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
+              className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52 "
             >
              
              {menu}
@@ -42,7 +42,7 @@ const Navber = () => {
               
             </ul>
           </div>
-          <a className="btn btn-ghost normal-case text-xl">Juboraj Islam Mamun</a>
+          <a className="btn btn-ghost normal-case text-xl text-white">Juboraj Islam Mamun</a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal p-0">
