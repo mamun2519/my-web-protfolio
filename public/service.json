@@ -1,0 +1,21 @@
+[
+      {
+            "name": "Frontend developer",
+            "img": "https://i.ibb.co/BPFBCy0/fornt.gif",
+            "service": "Html, Css, Bootstrap, Tailwind, Javascript, React"
+
+      },
+      {
+            "name": "Backend developer",
+            "img": "https://i.ibb.co/ZzV45NX/beck.gif",
+            "service": "Node, Express, MongoDB."
+
+      },
+      {
+            "name": "MERN stack developer",
+            "img": "https://i.ibb.co/5nL6qnB/mern.gif",
+            "service": "Html, Css, Bootstrap, Tailwind, Javascript, React, Node, Express, MongoDB"
+
+      }
+
+]
