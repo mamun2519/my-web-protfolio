@@ -19,15 +19,15 @@ const SatisfiedClient = () => {
           <div className="container px-5 py-24 mx-auto">
             <div className="flex flex-wrap -m-4 text-center">
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
-                <div className="border-2 bg-[#CCF2F4] border-gray-200 px-4 py-6 rounded-lg">
+                <div className="border-2 bg-[#19282F] border-gray-200 px-4 py-6 rounded-lg">
                 <span className=" text-5xl flex justify-center text-primary mb-1">
                   <ImHappy className="text-center" />
                   </span>
                  
-                  <h2 className="title-font font-medium text-3xl text-gray-900">
+                  <h2 className="title-font font-medium text-3xl text-white">
                   <CountUp duration={8} end={78}></CountUp>
                   </h2>
-                  <p className="leading-relaxed">Happy Clients</p>
+                  <p className="leading-relaxed text-white">Happy Clients</p>
                 </div>
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
@@ -43,14 +43,14 @@ const SatisfiedClient = () => {
                 </div>
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
-                <div className="border-2 bg-[#CCF2F4] border-gray-200 px-4 py-6 rounded-lg">
-                <span className=" text-5xl flex justify-center text-primary mb-1">
+                <div className="border-2 bg-[#19282F] border-gray-200 px-4 py-6 rounded-lg">
+                <span className=" text-5xl  flex justify-center text-primary mb-1">
                   <GiCoffeeCup className="text-center" />
                   </span>
-                  <h2 className="title-font font-medium text-3xl text-gray-900">
+                  <h2 className="title-font text-white font-medium text-3xl ">
                   <CountUp duration={8} end={53}></CountUp>
                   </h2>
-                  <p className="leading-relaxed">Cup of Coffee</p>
+                  <p className="leading-relaxed text-white">Cup of Coffee</p>
                 </div>
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">

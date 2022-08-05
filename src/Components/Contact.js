@@ -20,8 +20,8 @@ const Contact = () => {
                   <p className="text-xl">If you have any questions, please feel free to contact me</p>
                   <div className="flex flex-wrap  gap-8 justify-between pt-7">
            
-           <div className="border-2 bg-[#CCF2F4] w-full lg:w-[290px] h-[145px] border-gray-200 px-4 py-6 rounded-lg">
-                 <div className="text-center">
+           <div className="border-2 bg-[#19282F] w-full lg:w-[290px] h-[145px] border-gray-200 px-4 py-6 rounded-lg">
+                 <div className="text-center text-white">
                  <span className="flex justify-center text-4xl mb-2 text-primary"><ImLocation></ImLocation></span>
                  <p className=" font-medium text-xl">Chittagon, Bangladesh</p>
                  <p>Location</p>
@@ -48,8 +48,8 @@ const Contact = () => {
                  </div>
 
            </div>
-           <div className="border-2 bg-[#CCF2F4] w-full lg:w-[290px] h-[145px] border-gray-200 px-4 py-6 rounded-lg">
-           <div className="text-center">
+           <div className="border-2 bg-[#19282F] w-full lg:w-[290px] h-[145px] border-gray-200 px-4 py-6 rounded-lg">
+           <div className="text-center text-white">
                  <span className="flex justify-center text-4xl mb-2 text-primary"><BsCalendarDateFill/></span>
                  <p className=" font-medium text-xl">24/7</p>
                  <p>Support</p>

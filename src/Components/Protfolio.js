@@ -22,7 +22,7 @@ const Protfolio = () => {
 
         <div className="grid gird-cols-1 lg:grid-cols-3 gap-10 lg:gap-20 mt-5">
             {
-                  project.map((pro , i) => <div key={i} className={`card ${pro.color ? "bg-[#CCF2F4]" : "bg-base-100" }   border`}>
+                  project.map((pro , i) => <div key={i} className={`card ${pro.color ? "bg-[#19282F] text-[#EEEEEE]" : "bg-base-100" }   border`}>
                   <figure>
                     <img  src={pro.img} alt="img" />
                   </figure>

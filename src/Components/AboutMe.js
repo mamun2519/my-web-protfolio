@@ -14,12 +14,12 @@ const AboutMe = () => {
      
 
       <div className="grid lg:grid-cols-2 grid-cols-1 gap-0 lg:my-20 my-5">
-        <div className="">
-          <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
+        <div className="flex justify-center">
+          <div className="lg:max-w-lg  lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
             <img
               className="object-cover object-center rounded h-[321px] w-full"
               alt="hero"
-              src="/Asstes/Icon/aboutme2.gif"
+              src="/Asstes/Icon/84565-about-us.gif"
             />
           </div>
         </div>

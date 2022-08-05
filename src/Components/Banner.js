@@ -1,5 +1,6 @@
 
 import React from "react";
+import TypeAnimation from "react-type-animation";
 
 
 const Banner = () => {
@@ -21,7 +22,20 @@ const Banner = () => {
             </h1>
 
             <h1 className="lg:text-[48px] text-[25px] mb-3 font-medium text-gray-900">
-              I am Web Developer
+              
+              <TypeAnimation
+        cursor={true}
+        sequence={[
+          'I am Web Developer',
+          2000,
+          'I am React Developer',
+          2000,
+          'I am MERN Stack Developer',
+          2000,
+        ]}
+        wrapper="a"
+        repeat={3}
+       />
             </h1>
             <p className="mb-6 leading-relaxed">
               Copper mug try-hard pitchfork pour-over freegan heirloom neutra

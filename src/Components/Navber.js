@@ -1,6 +1,6 @@
 
 import React from "react";
-
+import TypeAnimation from 'react-type-animation';
 const Navber = () => {
 
   const menu = <>
@@ -11,7 +11,7 @@ const Navber = () => {
     <li><a href='#contact'>Contact</a></li>
   </>
   return (
-    <div className="bg-[#893f45]">
+    <div className="bg-[#19282F]">
       <div className="navbar  max-w-7xl m-auto px-2 lg:text-white  font-medium ">
         <div className="navbar-start">
           <div className="dropdown">
@@ -43,8 +43,13 @@ const Navber = () => {
             </ul>
           </div>
           <a className="btn btn-ghost normal-case text-xl text-white">
-            
-            Juboraj Islam Mamun</a>
+          <TypeAnimation
+        cursor={false}
+        sequence={['Juboraj Islam Mamun', 2000, '']}
+        wrapper="h2"
+        repeat={Infinity}
+       />
+            </a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal p-0">
