@@ -43,6 +43,9 @@ const Navber = () => {
             </ul>
           </div>
           <a className="btn btn-ghost normal-case text-xl text-white">
+            <div className="w-16 pr-3 rounded-full">
+            <img className=" rounded-full" src="/Asstes/picture/logo3.jpg" alt="" />
+            </div>
           <TypeAnimation
         cursor={false}
         sequence={['Juboraj Islam Mamun', 2000, '']}
