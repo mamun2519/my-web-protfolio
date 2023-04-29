@@ -5,7 +5,7 @@ import { HiOutlineMail } from 'react-icons/hi';
 import { BsCalendarDateFill } from 'react-icons/bs';
 const Contact = () => {
   return (
-    <div id="contact" className="max-w-7xl m-auto lg:px-2 px-6 my-20">
+    <div id="contact" className="max-w-7xl m-auto lg:px-2 px-6 my-10">
       <div className="w-max mx-auto">
         <h1 className="text-[2rem] text-center mt-10 px-6 font-medium">
           Cont<span className="text-primary">act</span>

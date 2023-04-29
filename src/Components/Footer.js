@@ -14,7 +14,7 @@ const Footer = () => {
             </span>
           </a>
           <p className="text-sm text-[#fff] sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
-            All © copyright recive
+             © All rights reserved 
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
             <a

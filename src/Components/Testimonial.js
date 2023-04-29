@@ -7,7 +7,7 @@ import "swiper/css/navigation";
 import { Pagination} from "swiper";
 const Testimonial = () => {
   return (
-    <div id="testimonail" className="max-w-7xl m-auto lg:px-2 px-4 my-40">
+    <div id="testimonail" className="max-w-7xl m-auto lg:px-2 px-4 my-20">
       <div className="w-max mx-auto">
         <h1 className="text-[2rem] text-center mt-10 px-6 font-medium">
         <span className="text-primary">Testim</span>onial</h1>

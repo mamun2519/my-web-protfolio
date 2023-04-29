@@ -1,21 +1,61 @@
 [
       {
-            "name": "Frontend developer",
-            "img": "https://i.ibb.co/BPFBCy0/fornt.gif",
-            "service": "Html, Css, Bootstrap, Tailwind, Javascript, React"
+            "name": "I will build react js app, next js app , node js mern stack website",
+            "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/281257407/original/8e57dc1ef65e845b60180293bae127a9f5170e9e/do-mern-stack-website-development.jpg",
+            "service": "Clicking on the the contact seller button for details will take you to the fiverr gig.",
+           "fiverLink": "https://www.fiverr.com/mamun2519/do-mern-stack-website-development",
+           "price": "70"
 
       },
       {
-            "name": "Backend developer",
-            "img": "https://i.ibb.co/ZzV45NX/beck.gif",
-            "service": "Node, Express, MongoDB."
+            "name": "I will be build your full stack website developed by mern stack",
+            "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/281928047/original/242fcba1ba87984e10fa3b6db94626a751763829/be-build-your-full-stack-website-developed-by-mern-stack.jpg",
+            "service": "Clicking on the the contact seller button for details will take you to the fiverr gig.",
+            "fiverLink": "https://www.fiverr.com/mamun2519/do-mern-stack-website-development",
+            "price": "30"
       
 
       },
       {
-            "name": "MERN stack developer",
-            "img": "https://i.ibb.co/5nL6qnB/mern.gif",
-            "service": "Html, Css, Bootstrap, Tailwind, Javascript, React, Node, Express, MongoDB"
+            "name": "I will be your react js frontend developer",
+            "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/282042221/original/886a911a1893882172b3fc9eda4ffe140200ef71/develop-react-js-application.jpg",
+            "service": "Clicking on the the contact seller button for details will take you to the fiverr gig.",
+            "fiverLink": "https://www.fiverr.com/mamun2519/do-mern-stack-website-development",
+            "price": "40"
+
+      },
+      {
+            "name": "I will be your node js express js backend developer",
+            "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/282340012/original/a7e052487f66453c53cc7973517b8216874e5b2c/be-your-node-js-express-js-backend-developer.jpg",
+            "service": "Clicking on the the contact seller button for details will take you to the fiverr gig.",
+            "fiverLink": "https://www.fiverr.com/mamun2519/do-mern-stack-website-development",
+            "price": "15"
+
+      },
+      {
+            "name": "I will convert figma to react app with tailwind css",
+            "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/288588427/original/3c3f04b7c2142c62844eb38e299535e0cadc0b1e/convert-figma-to-react-app-with-tailwind-css.jpg",
+            "service": "Clicking on the the contact seller button for details will take you to the fiverr gig.",
+            "fiverLink": "https://www.fiverr.com/mamun2519/do-mern-stack-website-development",
+            "price": "30"
+      
+
+      },
+      {
+            "name": "I will develop android and IOS app using react native",
+            "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/305083244/original/e62103f7c6f1ca9b6935e622ea0f4406fda94710/develop-android-and-ios-app-using-react-native.png",
+            "service": "Clicking on the the contact seller button for details will take you to the fiverr gig.",
+            "fiverLink": "https://www.fiverr.com/mamun2519/do-mern-stack-website-development",
+            "price": "90"
+
+      }
+     ,
+      {
+            "name": "I will fix bugs and issues in react js or next js app",
+            "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/305097417/original/405f50058ef226568c68b39a0d94be50ba023703/fix-bugs-and-issues-in-react-js-or-next-js-app.png",
+            "service": "Clicking on the the contact seller button for details will take you to the fiverr gig.",
+            "fiverLink": "https://www.fiverr.com/mamun2519/do-mern-stack-website-development",
+            "price": "10"
 
       }
 

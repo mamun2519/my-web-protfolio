@@ -1,20 +1,45 @@
 [
       {
+            "name": "Smart E-Shop",
+            "img": "https://i.ibb.co/mHHsmTF/shopPNG.png",
+            "live": "https://fashion-ecommerce-92924.web.app",
+            "clinet": "https://github.com/mamun2232/Electric-bd",
+            "server": "https://github.com/mamun2232/electic-bd-server",
+            "description": "Complect E-commerce Website"
+      },
+      {
+            "name": "Public Collage",
+        
+            "img": "https://i.ibb.co/Smq9GTg/collage2-PNG.png",
+            "live": "https://collage-management-ca2fc.web.app/",
+            "clinet": "https://github.com/mamun2232/luxury-living",
+            "server": "https://github.com/mamun2232/luxury-living-server",
+            "description": "Collage Managment Website"
+      },
+      {
+            "name": "123 Mechine Game",
+            "img": "https://i.ibb.co/2Fk8BtM/gaming3-PNG.png",
+            "live": "https://gaming-app-deecc.web.app",
+            "clinet": "https://github.com/mamun2232/walton-warehouse",
+            "server": "https://github.com/mamun2232/walton-warehouse-server",
+            "description": "Gaming Website"
+      },
+      {
             "name": "Electric Bd",
             "img": "https://i.ibb.co/xX1WqD0/electicbd.png",
             "live": "https://manufacturer-project-82430.web.app/",
             "clinet": "https://github.com/mamun2232/Electric-bd",
             "server": "https://github.com/mamun2232/electic-bd-server",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo aliquam aperiam inventore, harum reprehenderit architecto id quod dignissimos mollitia molestias!"
+            "description": "Manufacturer Company Website"
       },
       {
             "name": "Luxury Living",
-            "color": "true",
+        
             "img": "https://i.ibb.co/LNnnn4N/luxcary-Living.png",
             "live": "https://creative-agency-cc8a0.web.app/",
             "clinet": "https://github.com/mamun2232/luxury-living",
             "server": "https://github.com/mamun2232/luxury-living-server",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo aliquam aperiam inventore, harum reprehenderit architecto id quod dignissimos mollitia molestias!"
+            "description": "Hotel Managment Website"
       },
       {
             "name": "Walton WareHouse",
@@ -22,6 +47,6 @@
             "live": "https://walton-warehouse.web.app/",
             "clinet": "https://github.com/mamun2232/walton-warehouse",
             "server": "https://github.com/mamun2232/walton-warehouse-server",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo aliquam aperiam inventore, harum reprehenderit architecto id quod dignissimos mollitia molestias!"
+            "description": "Warehouse Managment Website"
       }
 ]

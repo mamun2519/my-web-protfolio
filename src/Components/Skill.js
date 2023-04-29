@@ -5,7 +5,7 @@ import { MdGppGood} from 'react-icons/md';
 import { GiFinishLine} from 'react-icons/gi';
 const Skill = () => {
   return (
-    <div className="max-w-7xl m-auto lg:px-2  my-40">
+    <div className="max-w-7xl m-auto lg:px-2  my-20">
       {/* <div className="w-max mx-auto">
         <h1 className="text-[2rem] text-center mt-10 px-6 font-medium">My <span className="text-primary">Skills</span></h1>
         <div className="border-b-2 border-primary"></div>
